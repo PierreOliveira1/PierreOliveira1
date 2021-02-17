@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, i'm Pierre full-stack developer, but work currently how front-end developer.
+I have experience with ReactJs, React Native and NodeJs, besides playing with Php and Python.
 
 <!--
 **PierreOliveira1/PierreOliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
