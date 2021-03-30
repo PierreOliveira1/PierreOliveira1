@@ -1,6 +1,7 @@
-Hi, i'm Pierre full-stack developer, but work currently how front-end developer.
-I have experience with ReactJs, React Native and NodeJs, besides playing with Php and Python.
+***Passionate about programming and new technologies.***
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreOliveira1&show_icons=true&theme=dracula&custom_title=Pierre%20Oliveira&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreOliveira1&layout=compact&theme=dracula&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PierreOliveira1/PierreOliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
